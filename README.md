@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there readme
 
 <!--
 **aditya90801/aditya90801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
